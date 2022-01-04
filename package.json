@@ -1,0 +1,19 @@
+{
+  "name": "bookstore-ms-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanchatip/bookstore-ms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanchatip/bookstore-ms/issues"
+  },
+  "homepage": "https://github.com/thanchatip/bookstore-ms#readme"
+}
