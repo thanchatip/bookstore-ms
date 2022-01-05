@@ -1,0 +1,37 @@
+[
+ {
+ "id": 5,
+ "name": "An American Princess: The Many Lives of Allene Tew",
+ "author": "Annejet van der Zijl, Michele Hutchison",
+ "price": 149.00,
+ "is_recommended": true
+ },
+ {
+ "id": 4,
+ "name": "The Great Alone: A Novel Kristin Hannah",
+ "author": "Kristin Hannah",
+ "price": 495.00,
+ "is_recommended": true
+ },
+ {
+ "id": 2,
+ "name": "When Never Comes",
+ "author": "Barbara Davis",
+ "price": 179.00,
+ "is_recommended": true
+ },
+ {
+ "id": 1,
+ "name": "Before We Were Yours: A Novel",
+ "author": "Lisa Wingate",
+ "price": 340.00,
+ "is_recommended": false
+ },
+ {
+ "id": 3,
+ "name": "Giraffes Can't Dance",
+ "author": "Giles Andreae, Guy Parker-Rees",
+ "price": 200.50,
+ "is_recommended": false
+ }
+ ]
